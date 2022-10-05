@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body {
+    color: turquoise;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bottom{
+    background-image: url('images/pexels-marlon-martinez-1450082.jpg') ;
+}
+
+#para1{
+    text-align: center;
+}
+
+
